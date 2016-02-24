@@ -1,0 +1,28 @@
+name: ljauregui
+favicon: null
+layout_spectrum: 0.8577988767065108
+typography_spectrum: 0.6271110340021551
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3418638608418405
+  lightness: 0.9444506843574345
+  saturation: 0.897673801286146
+  rhythmicContrast: 0.1917534815147519
+purpose: []
